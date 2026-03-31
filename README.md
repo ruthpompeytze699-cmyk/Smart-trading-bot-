@@ -1,5 +1,6 @@
 
 
+
 # My Trading Bot
 
 A simple, extensible cryptocurrency trading bot built with Python and CCXT.
