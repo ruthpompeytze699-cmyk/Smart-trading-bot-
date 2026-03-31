@@ -1,1 +1,5 @@
-
+ccxt
+pandas
+pandas-ta
+python-dotenv
+schedule  # if you use it for scheduling
