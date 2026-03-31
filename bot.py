@@ -17,6 +17,7 @@
 
 
 
+
 import ccxt
 import time
 import logging
